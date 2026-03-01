@@ -1,0 +1,89 @@
+{
+  "company": {
+    "name": "NextECO Solutions",
+    "tagline": "Building a Greener Digital Future",
+    "founded": "2022",
+    "headquarters": "Silicon Valley, CA",
+    "mission": "To provide high-performance, secure, and privacy-respecting software that empowers users while minimizing digital footprints.",
+    "about": "NextECO Solutions is a leading software development firm dedicated to creating a holistic ecosystem of tools for modern professionals. We believe that technology should be powerful yet simple, secure yet accessible. Our suite of 5+ products is designed with a core focus on performance, security, and sustainability.",
+    "contact": {
+      "email": "contact@nexteco.example.com",
+      "address": "123 Tech Lane, Suite 456, Innovation City, CA 94025",
+      "phone": "+1 (555) 123-4567"
+    },
+    "values": [
+      {
+        "title": "Security First",
+        "description": "Every line of code is written with security as the top priority, ensuring your data remains yours."
+      },
+      {
+        "title": "Performance Driven",
+        "description": "Our apps are optimized for speed and efficiency, saving you time and system resources."
+      },
+      {
+        "title": "Sustainability",
+        "description": "We strive to reduce digital waste through efficient algorithms and streamlined workflows."
+      }
+    ]
+  },
+  "faqs": [
+    {
+      "id": "faq-1",
+      "question": "Is NextECO software free to use?",
+      "answer": "Most of our core products offer a fully functional free tier with essential features. For advanced enterprise-grade optimization and security, we offer premium licenses.",
+      "hidden": false
+    },
+    {
+      "id": "faq-2",
+      "question": "Is my data safe with NextECO?",
+      "answer": "Yes. We follow a 'Privacy First' philosophy. Our software, like EcoVault and EcoMail, uses zero-knowledge encryption, meaning only you have the keys to your data.",
+      "hidden": false
+    },
+    {
+      "id": "faq-3",
+      "question": "Do you support older versions of Windows and Android?",
+      "answer": "We strive for maximum compatibility. Most of our apps support Windows 10/11 and Android 8.0 (Oreo) or higher.",
+      "hidden": false
+    },
+    {
+      "id": "faq-4",
+      "question": "How do I verify the integrity of my download?",
+      "answer": "Every download comes with a SHA256 checksum. You can verify this using the copy button on the product page and a hash verification tool on your device.",
+      "hidden": false
+    },
+    {
+      "id": "faq-5",
+      "question": "How often are the apps updated?",
+      "answer": "We release security patches and performance optimizations every 2-4 weeks. Major feature updates are released quarterly.",
+      "hidden": false
+    },
+    {
+      "id": "faq-1772349272519",
+      "question": "New Question?New Question?",
+      "answer": "New Answer.",
+      "hidden": false
+    }
+  ],
+  "pages": {
+    "documentation": {
+      "title": "Documentation",
+      "content": "# Documentation\n\nWelcome to the NextECO Solutions documentation. Here you will find guides and technical details for all our products.\n\n## Getting Started\nTo get started with any of our tools, simply download the installer for your platform and follow the on-screen instructions.",
+      "hidden": false
+    },
+    "security-policy": {
+      "title": "Security Policy",
+      "content": "# Security Policy\n\nAt NextECO Solutions, security is not an afterthought—it's the foundation of everything we build.",
+      "hidden": false
+    },
+    "privacy-policy": {
+      "title": "Privacy Policy",
+      "content": "# Privacy Policy\n\nYour privacy is our priority. We do not sell your data.",
+      "hidden": false
+    },
+    "terms-of-service": {
+      "title": "Terms of Service",
+      "content": "# Terms of Service\n\nBy using our software, you agree to these terms.",
+      "hidden": false
+    }
+  }
+}

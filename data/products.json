@@ -1,0 +1,175 @@
+[
+  {
+    "id": "eco-cleaner",
+    "name": "EcoCleaner Pro",
+    "description": "Advanced system optimization and junk cleaning tool for maximum performance.",
+    "fullDescription": "EcoCleaner Pro is our flagship optimization suite designed to breathe new life into your devices. It implements advanced scanning algorithms to identify and safely remove redundant system files, temporary data, and registry inconsistencies that slow down your experience. With a focus on sustainable computing, it helps extend the lifespan of your hardware by reducing unnecessary wear.",
+    "features": [
+      "One-tap system optimization",
+      "Deep disk cleaning & junk removal",
+      "Real-time memory management",
+      "Battery health monitor (Android)",
+      "Startup manager for faster boot times"
+    ],
+    "icon": "Zap",
+    "windowsDownloadUrl": "#",
+    "androidDownloadUrl": "#",
+    "windowsSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "androidSha256": "af2bdbe1aa9b6ec1e2ade1d694f41fc71a831d0262196ad444a940d691a5e396",
+    "versionHistory": [
+      {
+        "version": "2.4.0",
+        "date": "2024-02-15",
+        "changes": [
+          "Improved registry cleaning",
+          "Reduced memory usage",
+          "New UI animations"
+        ]
+      },
+      {
+        "version": "2.3.5",
+        "date": "2024-01-10",
+        "changes": [
+          "Fixed crash on Windows 11",
+          "Updated translations"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "eco-guard",
+    "name": "EcoGuard VPN",
+    "description": "Ultra-fast, secure, and private browsing with military-grade encryption.",
+    "fullDescription": "EcoGuard VPN provides a seamless and secure tunnel for your internet traffic. Our global network of high-speed servers ensures that your browsing remains private, even on public Wi-Fi. We use the latest encryption standards and maintain a strict no-logs policy to protect your digital identity.",
+    "features": [
+      "Military-grade AES-256 encryption",
+      "No-logs policy verified by third parties",
+      "Kill switch for accidental disconnections",
+      "Global server network in 50+ countries",
+      "Optimized for high-speed streaming"
+    ],
+    "icon": "ShieldCheck",
+    "windowsDownloadUrl": "#",
+    "androidDownloadUrl": "#",
+    "windowsSha256": "f0e4c2f76c58916ec258f246851bea091d14d4247a2fc3e18694461b1816e13b",
+    "androidSha256": "7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069",
+    "versionHistory": [
+      {
+        "version": "1.2.1",
+        "date": "2024-02-20",
+        "changes": [
+          "Added 5 new server locations",
+          "Enhanced Kill Switch reliability"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "eco-vault",
+    "name": "EcoVault Pass",
+    "description": "Secure password manager with cross-platform sync and biometrics.",
+    "fullDescription": "EcoVault Pass is your ultimate digital vault. Store passwords, credit cards, and sensitive notes with confidence. All data is encrypted locally on your device before being synced across your platforms, ensuring that only you hold the keys to your information.",
+    "features": [
+      "Zero-knowledge security architecture",
+      "Biometric unlock (FaceID/Fingerprint)",
+      "Secure password generator",
+      "Dark web breach monitoring",
+      "Auto-fill support for browsers and apps"
+    ],
+    "icon": "Lock",
+    "windowsDownloadUrl": "#",
+    "androidDownloadUrl": "#",
+    "windowsSha256": "8e8d53d2c12513f56e9e4f51957241031d102e1f98bc14f6b5f126f5e8841753",
+    "androidSha256": "bc53d16e3c5a89fc0b6d9f5c8c5c4d6a4a0f4a8b7c3d2e1a0f9b8c7d6e5d4c3b",
+    "versionHistory": [
+      {
+        "version": "3.0.0",
+        "date": "2024-03-01",
+        "changes": [
+          "Cloud sync overhaul",
+          "Dark mode support"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "eco-sync",
+    "name": "EcoSync Drive",
+    "description": "Fast and reliable cloud storage synchronization for your files.",
+    "fullDescription": "EcoSync Drive makes file management simple and secure. Synchronize your important documents across all your devices in real-time. With our advanced versioning system, you can always go back to previous versions of your work, and our end-to-end encryption keeps your files safe in the cloud.",
+    "features": [
+      "Real-time file synchronization",
+      "End-to-end file encryption",
+      "File version history up to 30 days",
+      "Smart partial sync to save bandwidth",
+      "Secure file sharing with link expiry"
+    ],
+    "icon": "Cloud",
+    "windowsDownloadUrl": "#",
+    "androidDownloadUrl": "#",
+    "windowsSha256": "c1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2",
+    "androidSha256": "d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2",
+    "versionHistory": [
+      {
+        "version": "1.5.0",
+        "date": "2024-01-25",
+        "changes": [
+          "Selective folder sync",
+          "Bandwidth limiter"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "eco-mail",
+    "name": "EcoMail Secure",
+    "description": "End-to-end encrypted email client with advanced spam protection.",
+    "fullDescription": "EcoMail Secure redefines private communication. Our client uses PGP encryption by default, ensuring that your messages remain private from the moment they are sent until they are opened by the recipient. With built-in tracking protection and advanced spam filters, your inbox stays clean and secure.",
+    "features": [
+      "PGP end-to-end encryption",
+      "Tracker and spy pixel blocking",
+      "Advanced AI spam filter",
+      "Secure calendar integration",
+      "Identity protection with aliasing"
+    ],
+    "icon": "Mail",
+    "windowsDownloadUrl": "#",
+    "androidDownloadUrl": "#",
+    "windowsSha256": "e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f2",
+    "androidSha256": "f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2",
+    "versionHistory": [
+      {
+        "version": "2.1.0",
+        "date": "2024-02-10",
+        "changes": [
+          "PGP key management",
+          "Schedule send"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ecotest-pro",
+    "name": "EcoTest Pro",
+    "description": "Test app for verify.",
+    "fullDescription": "This is a test app to verify the dynamic admin panel.",
+    "features": [
+      "Feature A",
+      "Feature B"
+    ],
+    "icon": "Cpu",
+    "windowsDownloadUrl": "#",
+    "androidDownloadUrl": "#",
+    "windowsSha256": "",
+    "androidSha256": "",
+    "versionHistory": [
+      {
+        "version": "1.0.0",
+        "date": "2026-02-28",
+        "changes": [
+          ""
+        ]
+      }
+    ]
+  }
+]
